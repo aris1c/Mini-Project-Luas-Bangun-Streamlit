@@ -1,5 +1,7 @@
 # 📐 Mini Project: Hitung Luas Bangun Datar dengan Streamlit
 
+Link Streamlit : https://mini-project-luas-bangun-app-xxtvkzjjkp5chkeyu3bx9e.streamlit.app/
+
 A simple interactive web application built with **Streamlit** to calculate the area of basic 2D shapes such as **rectangles** and **triangles**.  
 The app also includes an information page and a clean sidebar navigation using `streamlit-option-menu`.
 
