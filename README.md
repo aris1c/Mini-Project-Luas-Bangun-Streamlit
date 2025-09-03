@@ -16,4 +16,4 @@ The app also includes an information page and a clean sidebar navigation using `
 - **Footer Branding**: Custom footer text at the bottom of every page.
 =======
 - **Footer Branding**: Custom footer text at the bottom of every page.
->>>>>>> b8eebbee656217d55d42ac60a6a19d0a2a29e341
+>>>>>>> Aris Candra <<<<<<<
